@@ -1,7 +1,7 @@
 # Data scientist | Computational physicist
   
 ### PROFESSIONAL EXPERIENCE}} \\
-  **TotalEnergies, Palaiseau, France
+  **TotalEnergies, Palaiseau, France**
 	Trainee - Solar Photovoltaics (May 2024 - Present)
 
   - Mapping of solar irradiation in solar farms from sky images
