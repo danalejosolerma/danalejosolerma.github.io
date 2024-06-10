@@ -1,7 +1,7 @@
 # Data scientist | Computational physicist
   
 ### PROFESSIONAL EXPERIENCE
- **TotalEnergies, Palaiseau, France**
+ **TotalEnergies, Palaiseau, France**   
   	*Trainee - Solar Photovoltaics (May 2024 - Present)*
 
   - Mapping of solar irradiation in solar farms from sky images
@@ -17,7 +17,7 @@
 
   _Tech stack: Python, Excel_
 
-  **LEEL lab, CEA, Saclay, France**
+  **LEEL lab, CEA, Saclay, France**   
 	 *Research Engineer - Machine Learning (Jun 2020 - Oct 2021)*
   
    - Co-development of a ML python code for the prediction of the chemical composition and thickness of a given sample.
@@ -28,7 +28,7 @@
   
    _Tech stack: Python, Bash, Keras, Scikit-learn, Scikit-image, MPI_
 
-  **SPINTEC lab, CEA, Grenoble, France**
+  **SPINTEC lab, CEA, Grenoble, France**   
 	 *Physics researcher - Theory/Simulation of Spintronics (Dec 2016 - Nov 2020)*
 	
    - Mathematical modeling of a graphene based spintronic device.
@@ -38,7 +38,7 @@
 
    _Tech stack: Python, Fortran, C, Bash, MPI, Scipy, matplotlib, seaborn_
    
-  **UNICAMP, Campinas, Brazil**
+  **UNICAMP, Campinas, Brazil**   
 	  *Research assistant - Molecular dynamics (Aug 2015 - Jul 2016)*
 	  
    - Mathematical modeling of a carbon nanoscroll.
