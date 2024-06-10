@@ -50,6 +50,6 @@
 ### EDUCATION
     
   - Specialized master in Data science | ENSAE - Institut Polytechnique de Paris (May 2024)
-  - PhD. in Physics | Grenoble Alpes University and CEA (May 2021)
+  - PhD. in Physics | Grenoble Alpes University (UGA) (May 2021)
   - MSc. in Physics | Campinas State University (UNICAMP) (Aug 2015)
   - BSc. in Physics | University of Valle (UNIVALLE) (May 2013 )
