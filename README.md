@@ -15,7 +15,7 @@
    - Analysis and description of an internal database, with the objective of improving the recruitment process.
    - Mapping of a database and development of a framework for estimating the market size and market share in the Americas for a multinational company.
 
-  _Tech stack:} Python, Excel_
+  _Tech stack: Python, Excel_
 
   **LEEL lab, CEA, Saclay, France**
 	 *Research Engineer - Machine Learning (Jun 2020 - Oct 2021)*
@@ -45,7 +45,7 @@
    - Molecular dynamics simulation of nanoscrolls using LAMMPS software in a high performance computing machine.
    - Presentation at conferences and writing of a scientific publication.
 
-  _Tech stack:} Bash, Matlab, LAMMPS_
+  _Tech stack: Bash, Matlab, LAMMPS_
 
 ### EDUCATION
     
