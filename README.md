@@ -1,4 +1,4 @@
-# Data scientist || Computational physicist
+# Data scientist | Computational physicist
   
 ### PROFESSIONAL EXPERIENCE
  **TotalEnergies, Palaiseau, France**
