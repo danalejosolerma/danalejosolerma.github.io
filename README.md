@@ -51,3 +51,11 @@
   - PhD. in Physics | Grenoble Alpes University (May 2021)
   - MSc. in Physics | Campinas State University (Aug 2015)
   - BSc. in Physics | University of Valle (May 2013 )
+
+## Projects
+### Minimal diffusion
+In this project, it was trained a deep diffusion model (DDPM) by creating a simplified version of a U-Net architecture and using various datasets (MNIST and SVHN). The training process allowed the DDPM to learn how to generate images from pure noise by observing a wide range of examples.
+<p align="center">
+  <img src="https://github.com/danalejosolerma/portfolio/tree/main/assets/img/gif-mnist.gif?raw=true" alt="MNIST" width="274" height="274" />
+  <img src="https://github.com/danalejosolerma/portfolio/tree/main/assets/img/gif-mnist.gif?raw=true" alt="SVHN" width="274" height="274" />
+</p>
