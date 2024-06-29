@@ -79,3 +79,8 @@ Several methods exist to efficiently classify text, going from very simple ones 
 	<img src="https://github.com/danalejosolerma/NLP-gender-project/blob/main/scheme.png?raw=true" alt="Scheme" />
 </p>
 
+### API deployment and ML models for fraud detection
+[Repository](https://github.com/danalejosolerma/P2_datascientest/blob/main/fraud_test_docker/fraud_api_test.py)
+
+This project consist on developing a machine learning model for the detection of fraudulent transactions in online purchases. Then, an image with the API was built in Docker. This image was deployed using Kubernetes, as well as Docker-compose. The API contains a functional model to detect fraudulent transactions, as well as, the corresponding tests.
+
