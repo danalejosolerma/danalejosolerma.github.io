@@ -11,7 +11,7 @@
   **Onepoint, Paris, France**   
 	 *Consultant data engineering/AI (June 2022 - Jan 2023)* 
 	 
-   - Conducted an in-depth analysis and documentation of an internal database aimed at optimizing the recruitment process, resulting in a improvement in candidate selection.
+   - Conducted an in-depth analysis and documentation of an internal database aimed at optimizing the recruitment process, resulting in an improvement in candidate selection.
    - Mapped and analyzed a comprehensive database to develop a robust framework for estimating market size and market share across the Americas for a multinational corporation.
 
   _Tech stack: Python, Excel_
