@@ -53,9 +53,23 @@
   - BSc. in Physics | University of Valle (May 2013 )
 
 ## Projects
-### Minimal diffusion
+### Minimal Diffusion
+[Repository](https://github.com/danalejosolerma/Segmentation_satellite_images)
 In this project, it was trained a deep diffusion model (DDPM) by creating a simplified version of a U-Net architecture and using various datasets (MNIST and SVHN). The training process allowed the DDPM to learn how to generate images from pure noise by observing a wide range of examples.
 <p align="center">
   <img src="https://github.com/danalejosolerma/portfolio/blob/main/assets/img/gif-mnist.gif?raw=true" alt="MNIST" width="274" height="274" />
   <img src="https://github.com/danalejosolerma/portfolio/blob/main/assets/img/gif-mnist.gif?raw=true" alt="SVHN" width="274" height="274" />
 </p>
+
+### Segmentation of Satellite Images
+[Repository](https://github.com/danalejosolerma/Segmentation_satellite_images)
+Convolutional neural network built using Keras developed to classify different objects from RGB aerial images The dataset used to train this convolutional neural network was obtained from Kaggle https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery that contains 6 different classes: Building, Land, Road, Vegetation, Water and Unlabeled.
+
+The results obtained are a first good approximation of what is wanted for this task. During the training it was obtained a Jaccard similarity (SIMRATIO) of 0.7925, which is pretty decent for the simplicity of the model.
+
+### Unsupervised Gender Classification Using Word Embeddings
+[Repository](https://github.com/danalejosolerma/NLP-gender-project)
+The primary objective of this report is to predict the gender based on personal data from an extract of data of the French census from the years 1836 to 1936. In this dataset we do not have access to the actual labels, so I approached this task as a unsupervised text classification and at end I compare the results obtained with the predictions provided. The gender inference problem is of vital importance in fields such as anthropological and sociological research and the treatment of personal data will be done respecting ethics principles and current legislation. In this work the subject of gender is considered as binary, in consonance with the age of this dataset, which by no means implies a political statement by the author.
+
+Several methods exist to efficiently classify text, going from very simple ones like Naive Bayes, going to more advance methods like Deep learning models, Transformer models and Word embeddings. The latter was the chosen method in this project.
+
