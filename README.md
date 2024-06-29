@@ -76,6 +76,6 @@ The primary objective of this report is to predict the gender based on personal 
 
 Several methods exist to efficiently classify text, going from very simple ones like Naive Bayes, going to more advance methods like Deep learning models, Transformer models and Word embeddings. The latter was the chosen method in this project.
 <p align="center">
-	<img src="https://github.com/danalejosolerma/NLP-gender-project/blob/main/scheme.png?raw=true" alt="MNIST" width="274" height="274" />
+	<img src="https://github.com/danalejosolerma/NLP-gender-project/blob/main/scheme.png?raw=true" alt="Scheme" />
 </p>
 
