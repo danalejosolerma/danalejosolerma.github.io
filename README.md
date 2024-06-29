@@ -4,46 +4,44 @@
  **TotalEnergies, Palaiseau, France**   
   	*Trainee - Solar Photovoltaics (May 2024 - Present)*
 
-  - Mapping of solar irradiation in solar farms from sky images
-  - Development of a machine learning model for the forecasting of solar irradiance in solar farms from data recollected from satellite images, sky imagers and irradiance historical data.
+  - I am currently developing a machine learning model for the forecasting of solar irradiance in solar farms using data recollected from satellite images, sky imagers and irradiance historical data.
 
   _Tech stack: Python, Pytorch, TensorFlow, Scikit-learn, OpenCV_
 
   **Onepoint, Paris, France**   
 	 *Consultant data engineering/AI (June 2022 - Jan 2023)* 
 	 
-   - Analysis and description of an internal database, with the objective of improving the recruitment process.
-   - Mapping of a database and development of a framework for estimating the market size and market share in the Americas for a multinational company.
+   - Conducted an in-depth analysis and documentation of an internal database aimed at optimizing the recruitment process, resulting in a improvement in candidate selection.
+   - Mapped and analyzed a comprehensive database to develop a robust framework for estimating market size and market share across the Americas for a multinational corporation.
 
   _Tech stack: Python, Excel_
 
   **LEEL lab, CEA, Saclay, France**   
 	 *Research Engineer - Machine Learning (Jun 2020 - Oct 2021)*
   
-   - Co-development of a ML python code for the prediction of the chemical composition and thickness of a given sample.
-   - Development of a ML python code for the analysis of hyperspectral images and implementation of algorithms for anomaly detection.
-   - Construction, training, testing and deployment of neural networks. 
-   - Optimization and parallelization of the developed codes. 
-   - Presentation at conferences and writing of a scientific publication.     
+   - Co-developed a ML python code for the prediction of chemical composition and thickness of mineral samples, obtaining accuracies between 2% and 10% depending on the quality of the simulated data.
+   - Developed a ML python code for the analysis of hyperspectral images and implemented algorithms for anomaly detection, reducing the analysis time by a factor of 20.
+   - Construction, training, testing, optimization and deployment of neural networks.
+   - Presented at conferences and wrote scientific publications.  
   
    _Tech stack: Python, Bash, Keras, Scikit-learn, Scikit-image, MPI_
 
   **SPINTEC lab, CEA, Grenoble, France**   
 	 *Physics researcher - Theory/Simulation of Spintronics (Dec 2016 - Nov 2020)*
 	
-   - Mathematical modeling of a graphene based spintronic device.
-   - Simulations in python of spintronic devices using a high performance computing machine.
-   - Analysis, interpretation and dataviz of results.
-   - Presentation at conferences and writing of scientific publications.
+   - Developed a model to predict spin transfer torque in a graphene based spintronic device.
+   - Conducted simulations in python of spintronic devices using a high performance computing machine.
+   - Performed analysis, interpretation and data visualisation of results using python.
+   - Presented at conferences and wrote scientific publications
 
    _Tech stack: Python, Fortran, C, Bash, MPI, Scipy, matplotlib, seaborn_
    
   **UNICAMP, Campinas, Brazil**   
 	  *Research assistant - Molecular dynamics (Aug 2015 - Jul 2016)*
 	  
-   - Mathematical modeling of a carbon nanoscroll.
-   - Molecular dynamics simulation of nanoscrolls using LAMMPS software in a high performance computing machine.
-   - Presentation at conferences and writing of a scientific publication.
+   - Derived an equation to simulate the spiral shape of a carbon nanoscroll.
+   - Conducted molecular dynamics simulations of nanoscrolls using LAMMPS software on a high-performance computing machine.
+   - Presented at conferences and wrote a scientific publication.
 
   _Tech stack: Bash, Matlab, LAMMPS_
 
