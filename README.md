@@ -29,7 +29,7 @@
   **SPINTEC lab, CEA, Grenoble, France**   
 	 *Physics researcher - Theory/Simulation of Spintronics (Dec 2016 - Nov 2020)*
 	
-   - Developed a model to predict spin transfer torque in a graphene based spintronic device.
+   - Developed a mathematical model for spin transfer torque in a graphene based spintronic device.
    - Conducted simulations in python of spintronic devices using a high performance computing machine.
    - Performed analysis, interpretation and data visualisation of results using python.
    - Presented at conferences and wrote scientific publications
