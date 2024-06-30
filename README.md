@@ -89,7 +89,7 @@ Several methods exist to efficiently classify text, going from very simple ones 
 This project consist on developing and deploy a machine learning model for the detection of fraudulent transactions in online purchases. Later, an image with an API was built in Docker. This image was deployed using Kubernetes, as well as Docker-compose for comparison. The API contains a functional model to detect fraudulent transactions, as well as, the corresponding tests.
 
 <p align="center">
-	<img src="https://github.com/danalejosolerma/portfolio/blob/main/assets/img/MLs_metrics.png?raw=true" alt="Scheme" width="822" height="274" />
+	<img src="https://github.com/danalejosolerma/portfolio/blob/main/assets/img/MLs_metrics.png?raw=true" alt="Scheme" width="411" height="137" />
 </p>
 
 ### Neural Network From Scratch
