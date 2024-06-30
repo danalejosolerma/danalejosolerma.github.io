@@ -67,7 +67,11 @@ In this project, it was trained a deep diffusion model (DDPM) by creating a simp
 
 Convolutional neural network built using Keras developed to classify different objects from RGB aerial images The dataset used to train this convolutional neural network was obtained from Kaggle https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery that contains 6 different classes: Building, Land, Road, Vegetation, Water and Unlabeled.
 
-The results obtained are a first good approximation of what is wanted for this task. During the training it was obtained a Jaccard similarity (SIMRATIO) of 0.7925, which is pretty decent for the simplicity of the model.
+The results obtained are a first good approximation of what is wanted for this task. For a batch size of 64 and a around 26 epochs it was obtained during training a Jaccard similarity (SIMRATIO) of 0.7431 , which is pretty decent for the simplicity of the model.
+
+<p align="center">
+	<img src="https://github.com/danalejosolerma/portfolio/blob/main/assets/img/sample_segmentation.png?raw=true" alt="Scheme" />
+</p>
 
 ### Unsupervised Gender Classification Using Word Embeddings
 [Repository](https://github.com/danalejosolerma/NLP-gender-project)
