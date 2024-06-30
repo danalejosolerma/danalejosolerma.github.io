@@ -1,4 +1,13 @@
 title: Daniel Solis
 logo: /assets/img/foto_circ.png
-linkedin_username: daniel-solis-phd-323513154
+linkedin: https://www.linkedin.com/in/daniel-solis-phd-323513154
 theme: jekyll-theme-minimal
+
+skills:
+  - Python
+  - C/C++
+  - SQL
+  - Machine Learning
+  - Deep Learning
+  - Docker
+  - Argo CD
