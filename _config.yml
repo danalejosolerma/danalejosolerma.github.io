@@ -1,7 +1,6 @@
 title: Daniel Solis
 logo: /assets/img/foto_circ.png
 linkedin: https://www.linkedin.com/in/daniel-solis-phd-323513154
-theme: jekyll-theme-minimal
 
 skills:
   - Python
@@ -11,3 +10,4 @@ skills:
   - Deep Learning
   - Docker
   - Argo CD
+theme: jekyll-theme-minimal
