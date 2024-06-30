@@ -76,7 +76,7 @@ The results obtained are a first good approximation of what is wanted for this t
 ### Unsupervised Gender Classification Using Word Embeddings
 [Repository](https://github.com/danalejosolerma/NLP-gender-project)
 
-The primary objective of this report is to predict the gender based on personal data from an extract of data of the French census from the years 1836 to 1936. In this dataset we do not have access to the actual labels, so I approached this task as a unsupervised text classification and at end I compare the results obtained with the predictions provided. The gender inference problem is of vital importance in fields such as anthropological and sociological research and the treatment of personal data will be done respecting ethics principles and current legislation. In this work the subject of gender is considered as binary, in consonance with the age of this dataset, which by no means implies a political statement by the author.
+The primary objective of this project is to predict the gender based on personal data from an extract of data of the French census from the years 1836 to 1936. In this dataset there is not access to the actual labels, so I approached this task as a unsupervised text classification and at end I compare the results obtained with the predictions provided. The gender inference problem is of vital importance in fields such as anthropological and sociological research and the treatment of personal data will be done respecting ethics principles and current legislation. In this work the subject of gender is considered as binary, in consonance with the age of this dataset, which by no means implies a political statement by the author.
 
 Several methods exist to efficiently classify text, going from very simple ones like Naive Bayes, going to more advance methods like Deep learning models, Transformer models and Word embeddings. The latter was the chosen method in this project.
 <p align="center">
@@ -86,7 +86,11 @@ Several methods exist to efficiently classify text, going from very simple ones 
 ### API deployment and ML models for fraud detection
 [Repository](https://github.com/danalejosolerma/P2_datascientest/blob/main/fraud_test_docker/fraud_api_test.py)
 
-This project consist on developing a machine learning model for the detection of fraudulent transactions in online purchases. Then, an image with the API was built in Docker. This image was deployed using Kubernetes, as well as Docker-compose. The API contains a functional model to detect fraudulent transactions, as well as, the corresponding tests.
+This project consist on developing and deploy a machine learning model for the detection of fraudulent transactions in online purchases. Later, an image with an API was built in Docker. This image was deployed using Kubernetes, as well as Docker-compose for comparison. The API contains a functional model to detect fraudulent transactions, as well as, the corresponding tests.
+
+<p align="center">
+	<img src="https://github.com/danalejosolerma/portfolio/blob/main/assets/img/MLs_metrics.png?raw=true" alt="Scheme" />
+</p>
 
 ### Neural Network From Scratch
 [Repository](https://github.com/danalejosolerma/Neural-Network)
