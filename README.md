@@ -87,4 +87,4 @@ This project consist on developing a machine learning model for the detection of
 ### Neural Network From Scratch
 [Repository](https://github.com/danalejosolerma/Neural-Network)
 
-In this project a neural network was implemented from scratch (no ML libraries). It can generate neural networks with different numbers of layers and nodes. It minimizes the MSE by using gradient descent. It is implemented with a sigmoid function as activation function. To test the code, it was considered the IRIS data
+In this project a neural network was implemented from scratch (no ML libraries). It can generate neural networks with different numbers of layers and nodes. It minimizes the MSE by using gradient descent. It is implemented with a sigmoid function as activation function. To test the code, it was considered the IRIS data, for which a classification accuracy of 100% for the test set was found.
