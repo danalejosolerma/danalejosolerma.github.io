@@ -6,4 +6,5 @@ description: >
   <br>
   <a href="https://www.linkedin.com/in/daniel-solis-phd-323513154/">View my LinkedIn Profile</a>
 theme: jekyll-theme-minimal
-github: https://github.com/danalejosolerma
+github: 
+  repository_url: https//github.com/danalejosolerma
