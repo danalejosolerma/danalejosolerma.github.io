@@ -1,22 +1,9 @@
-author:
-  name   : "Daniel Solis"
-  avatar : "/assets/img/foto_circ.png"
-  bio    : >-
-    Data Scientist with 2+ years of professional experience. 
-    I am specialized in computational physics. I have experience in mathematical modeling, 
-    machine learning, deep learning, high performance computing and deployment of ML applications. 
-  location: "Saclay, France"
-  linkedin: "daniel-solis-phd-323513154"
-  github: "danalejosolerma"
-
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/danalejosolerma"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/daniel-solis-phd-323513154/"
-
-remote_theme: mmistakes/minimal-mistakes
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+title: Daniel Solis
+logo: /assets/img/foto_circ.png
+description: >
+  <br>
+  Data Scientist with 2+ years of professional experience. I am specialized in computational physics. I have experience in mathematical modeling, machine learning, deep learning, high performance computing and deployment of ML applications. 
+  <br>
+  <a href="https://www.linkedin.com/in/daniel-solis-phd-323513154/">View my LinkedIn Profile</a>
+theme: jekyll-theme-minimal
+github_url: https://github.com/danalejosolerma
