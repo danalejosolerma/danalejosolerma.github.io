@@ -65,9 +65,9 @@ In this project, it was trained a deep diffusion model (DDPM) by creating a simp
 ### Segmentation of Satellite Images
 [Repository](https://github.com/danalejosolerma/Segmentation_satellite_images)
 
-Convolutional neural network built using Keras developed to classify different objects from RGB aerial images The dataset used to train this convolutional neural network was obtained from Kaggle https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery that contains 6 different classes: Building, Land, Road, Vegetation, Water and Unlabeled.
+Convolutional neural network built using Keras developed to classify different objects from RGB aerial images The dataset used to train this convolutional neural network was obtained from Kaggle https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery and contains 6 different classes: Building, Land, Road, Vegetation, Water and Unlabeled.
 
-Considering a batch size of 64 and 26 epochs it was obtained during training a Jaccard similarity (SIMRATIO) of 0.7431 , which is pretty decent for the simplicity of the model. Visual inspection, show that the results obtained are a fair approximation of what is desired for this task.
+Considering a batch size of 64 images and 26 epochs it was obtained during training a Jaccard similarity (SIMRATIO) of 0.7431 , which is pretty decent for the simplicity of the model. Visual inspection, show that the results obtained are a fair approximation of what is desired for this task.
 
 <p align="center">
 	<img src="https://github.com/danalejosolerma/portfolio/blob/main/assets/img/sample_segmentation.png?raw=true" alt="Scheme" />
@@ -76,7 +76,7 @@ Considering a batch size of 64 and 26 epochs it was obtained during training a J
 ### Unsupervised Gender Classification Using Word Embeddings
 [Repository](https://github.com/danalejosolerma/NLP-gender-project)
 
-The primary objective of this project is to predict the gender of individuals based on personal data from an extract of data of the French census from the years 1836 to 1936. In this dataset there is not access to the actual labels, so I approached this task as a unsupervised text classification and at end I compared the results obtained with the predictions provided. The gender inference problem is of vital importance in fields such as anthropological and sociological research. In this work the subject of gender is considered as binary, in consonance with the age of this dataset, which by no means implies a political statement by the author.
+The primary objective of this project is to predict the gender of individuals based on personal information from a data extract of the French census from the years 1836 to 1936. In this dataset there is not access to true labels, only predictions, so I approached this task as a unsupervised text classification and at end I compared the results obtained with the predictions provided. The gender inference problem is of vital importance in fields such as anthropological and sociological research. In this work the subject of gender is considered as binary, in consonance with the age of this dataset, which by no means implies a political statement by the author.
 
 Several methods exist to efficiently classify text, going from very simple ones like Naive Bayes, going to more advance methods like Deep learning models, Transformer models and Word embeddings. The latter was the chosen method in this project.
 <p align="center">
@@ -86,7 +86,7 @@ Several methods exist to efficiently classify text, going from very simple ones 
 ### API deployment and ML models for fraud detection
 [Repository](https://github.com/danalejosolerma/P2_datascientest/blob/main/fraud_test_docker/fraud_api_test.py)
 
-This project consist on developing and deploy a machine learning model for the detection of fraudulent transactions in online purchases. Later, an image with an API was built in Docker. This image was deployed using Kubernetes, as well as Docker-compose for comparison. The API contains a functional model to detect fraudulent transactions, as well as, the corresponding unitary tests.
+This project consist on developing and deploying a machine learning model for the detection of fraudulent transactions in online purchases. Later, an image with an API was built in Docker. This image was deployed using Kubernetes, as well as Docker-compose for comparison. The API contains a functional model to detect fraudulent transactions, as well as, the corresponding unit tests.
 
 <p align="center">
 	<img src="https://github.com/danalejosolerma/portfolio/blob/main/assets/img/MLs_metrics.png?raw=true" alt="Scheme" width="411" height="137" />
