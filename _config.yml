@@ -8,4 +8,5 @@ description: >
   <a href="https://www.linkedin.com/in/daniel-solis-phd-323513154/">View my LinkedIn Profile</a>
 github: 
   is_user_page: true
+google_analytics: true  
 theme: jekyll-theme-minimal
