@@ -1,52 +1,23 @@
 .tabs {
-  margin: 20px 0;
-  border-bottom: 1px solid #ddd;
+    list-style: none; /* Remove default list styles */
+    padding: 0;      /* Remove default padding */
+    margin: 0;       /* Remove default margin */
+    display: flex;    /* Use flexbox for horizontal alignment */
+    justify-content: flex-end; /* Align items to the right */
 }
 
-.tabs ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  justify-content: flex-start;
-  border-bottom: 1px solid #ddd;
+.tabs li {
+    margin-left: 20px; /* Space between tabs */
 }
 
-.tabs ul li {
-  margin: 0;
+.tab-link {
+    text-decoration: none; /* Remove underline from links */
+    padding: 10px 15px; /* Padding inside tabs */
+    background-color: #f0f0f0; /* Tab background color */
+    border-radius: 5px; /* Rounded corners */
+    color: #333; /* Text color */
 }
 
-.tabs ul li a {
-  display: block;
-  padding: 10px 20px;
-  text-decoration: none;
-  color: #0073e6;
-  border: 1px solid #ddd;
-  border-bottom: none;
-  background-color: #f9f9f9;
-  transition: background-color 0.3s, color 0.3s;
-}
-
-.tabs ul li a:hover,
-.tabs ul li a.active {
-  background-color: #fff;
-  color: #000;
-  border-top: 2px solid #0073e6;
-  border-bottom: 1px solid #fff;
-}
-
-.tab-content {
-  display: none;
-  padding: 20px;
-  border: 1px solid #ddd;
-  border-top: none;
-  background-color: #fff;
-}
-
-.tab-content.active {
-  display: block;
-}
-
-iframe {
-  border: none;
+.tab-link:hover {
+    background-color: #e0e0e0; /* Hover effect */
 }
