@@ -17,6 +17,7 @@
     border-radius: 5px; /* Rounded corners */
     color: #0072b1; /* Text color #333 */
     font-size: 18px; /* Increase font size */
+    font-weight: bold; /* Make text bold */
 }
 
 .tab-link:hover {
