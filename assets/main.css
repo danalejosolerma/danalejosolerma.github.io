@@ -26,26 +26,11 @@ nav ul li a.active {
 }
 
 .container {
-  display: flex;
-  flex-direction: column;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
 }
 
 header {
   margin-bottom: 20px;
-}
-
-main {
-  display: flex;
-}
-
-main .column {
-  flex: 1;
-}
-
-main .column.left {
-  max-width: 200px;
-}
-
-main .column.right {
-  flex: 3;
 }
