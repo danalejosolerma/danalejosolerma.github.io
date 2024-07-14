@@ -1,5 +1,4 @@
-<br>
-<br>
+
 # Projects
 ### Minimal Diffusion
 [Repository](https://github.com/danalejosolerma/Segmentation_satellite_images)
