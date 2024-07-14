@@ -13,9 +13,10 @@
 .tab-link {
     text-decoration: none; /* Remove underline from links */
     padding: 10px 15px; /* Padding inside tabs */
-    background-color: #f0f0f0; /* Tab background color */
+    background-color:  #060201; /* Tab background color #f0f0f0 */
     border-radius: 5px; /* Rounded corners */
-    color: #333; /* Text color */
+    color: #ffffff; /* Text color #333 */
+    font-size: 18px; /* Increase font size */
 }
 
 .tab-link:hover {
