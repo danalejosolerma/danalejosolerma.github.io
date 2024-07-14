@@ -1,7 +1,6 @@
-
-
-
-
+p {
+    padding-bottom: 1cm;
+}
 # Projects
 ### Minimal Diffusion
 [Repository](https://github.com/danalejosolerma/Segmentation_satellite_images)
