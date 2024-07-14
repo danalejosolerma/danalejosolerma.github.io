@@ -40,8 +40,19 @@
         {% endif %}
       </header>
       <section>
-
-      {{ content }}
+        <nav>
+          <ul>
+            <li><a href="#projects" class="tab-link">Projects</a></li>
+            <li><a href="#cv" class="tab-link">CV</a></li>
+          </ul>
+        </nav>
+  
+        <div id="projects" class="tab-content">
+          {{ content }}
+        </div>
+        <div id="cv" class="tab-content" style="display: none;">
+          {{ page.cv_content }}
+        </div>
 
       </section>
       <footer>
