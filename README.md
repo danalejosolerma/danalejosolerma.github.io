@@ -48,3 +48,7 @@ In this project a neural network was implemented from scratch (no ML libraries).
 [Dashboard](https://public.tableau.com/views/Tour_de_France_Pellegrino_Solis/Dashboard?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 This dashboard was created together with [Giacomo Pellegrino](https://www.linkedin.com/in/giacomo-pellegrino-7b35b01b8/) as the final project of the course Data Story Telling at ENSAE. The dashboard shows the most relevant aspects of one of the most famous cycling races in a clear and concise way, so it can transmit our story to the reader.
+
+<p align="center">
+	<img src="https://github.com/danalejosolerma/danalejosolerma.github.io/blob/main/assets/img/Dashboard.png" alt="Scheme" width="450" height="253" />
+</p>
