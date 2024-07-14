@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#cv">CV</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <div id="projects" class="tab-content">
+        {{ content }}
+      </div>
+      <div id="cv" class="tab-content">
+        {{ page.cv_content }}
+      </div>
+    </main>
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const tabs = document.querySelectorAll("nav ul li a");
+      const contents = document.querySelectorAll(".tab-content");
+
+      tabs.forEach(tab => {
+        tab.addEventListener("click", event => {
+          event.preventDefault();
+
+          tabs.forEach(t => t.classList.remove("active"));
+          tab.classList.add("active");
+
+          contents.forEach(content => content.style.display = "none");
+          document.querySelector(tab.getAttribute("href")).style.display = "block";
+        });
+      });
+
+      document.querySelector("nav ul li a").click();
+    });
+  </script>
+</body>
+</html>
