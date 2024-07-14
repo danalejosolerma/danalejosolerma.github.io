@@ -13,7 +13,7 @@
 .tab-link {
     text-decoration: none; /* Remove underline from links */
     padding: 10px 15px; /* Padding inside tabs */
-    background-color:  #060201; /* Tab background color #f0f0f0 */
+    background-color: #4c4d4b; /* Tab background color #f0f0f0 */
     border-radius: 5px; /* Rounded corners */
     color: #ffffff; /* Text color #333 */
     font-size: 18px; /* Increase font size */
