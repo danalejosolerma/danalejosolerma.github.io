@@ -11,5 +11,3 @@ github:
   is_user_page: true
 google_analytics: true  
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-tabs
