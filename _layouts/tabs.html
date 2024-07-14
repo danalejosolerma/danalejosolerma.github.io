@@ -4,14 +4,15 @@
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
 <body>
   <div class="container">
     <header>
       <nav>
         <ul>
-          <li><a href="#projects">Projects</a></li>
-          <li><a href="#cv">CV</a></li>
+          <li><a href="#projects" class="tab-link">Projects</a></li>
+          <li><a href="#cv" class="tab-link">CV</a></li>
         </ul>
       </nav>
     </header>
@@ -19,7 +20,7 @@
       <div id="projects" class="tab-content">
         {{ content }}
       </div>
-      <div id="cv" class="tab-content">
+      <div id="cv" class="tab-content" style="display: none;">
         {{ page.cv_content }}
       </div>
     </main>
@@ -27,7 +28,7 @@
 
   <script>
     document.addEventListener("DOMContentLoaded", function() {
-      const tabs = document.querySelectorAll("nav ul li a");
+      const tabs = document.querySelectorAll("nav ul li a.tab-link");
       const contents = document.querySelectorAll(".tab-content");
 
       tabs.forEach(tab => {
