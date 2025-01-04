@@ -1,7 +1,7 @@
 <br>
 # Projects
 ## Minimal Diffusion
-[Repository](https://github.com/danalejosolerma/Segmentation_satellite_images)
+[Repository](https://github.com/danalejosolerma/minimal_diffusion)
 
 In this project, it was trained a deep diffusion model (DDPM) by creating a simplified version of a U-Net architecture and using various datasets (MNIST and SVHN). The training process allowed the DDPM to learn how to generate images from pure noise by observing a wide range of examples.
 <p align="center">
